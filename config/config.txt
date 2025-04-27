@@ -1,0 +1,6 @@
+{
+    "A": "Computer Science A",
+    "B": "Computer Science Survey",
+    "C": "Web development",
+    "D": "oral communication"
+}
